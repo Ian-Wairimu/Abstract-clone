@@ -1,0 +1,19 @@
+.header--container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #DADBF1;
+    height: 400px;
+}
+.header--h1 {
+    font-weight: 400;
+    font-size: 4.5em;
+    margin-bottom: 18px;
+}
+.header--input {
+    width: 700px;
+    padding: 16px;
+    border: 1px solid black;
+}

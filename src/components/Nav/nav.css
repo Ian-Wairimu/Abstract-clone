@@ -1,0 +1,56 @@
+.nav--con {
+    display: flex;
+    background-color: black;
+    height: 90px;
+    width: 100%;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 0 0 150px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    color: white;
+}
+.div--con_left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    align-self: center;
+    margin-right: auto;
+}
+.nav--logo {
+    width: 100%;
+    margin-right: 10px;
+}
+.nav--help {
+    display: block;
+    border: none;
+    width: 150px;
+    text-align: start;
+    padding: 0 0 0 10px;
+    border-left: 3px solid white;
+    font-size: 1.4em;
+}
+.btn {
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 1.4em;
+}
+.nav--submit {
+    border: 1px solid white;
+    margin-right: 15px;
+    background-color: #191A1B;
+    width: 250px;
+}
+.nav--sign {
+    border: none;
+    margin-right: 30px;
+    background-color: #4D67D5;
+    width: 150px;
+}
+.nav--sign:hover {
+    border: none;
+    background-color: white;
+    color: black;
+    width: 150px;
+}

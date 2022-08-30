@@ -1,0 +1,9 @@
+.main--cont {
+    display: grid;
+    padding: 150px;
+    width: 100%;
+    grid-template-columns: repeat(2, 1fr);
+    grid-auto-rows: auto;
+    column-gap: 0;
+    row-gap: 80px;
+}
