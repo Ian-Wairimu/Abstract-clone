@@ -47,6 +47,7 @@
     margin-right: 30px;
     background-color: #4D67D5;
     width: 150px;
+    transition: 1s;
 }
 .nav--sign:hover {
     border: none;
